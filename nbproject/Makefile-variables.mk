@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=ver02-funzioni
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/ver02-funzioni
+CND_ARTIFACT_NAME_Debug=ver20150220_02--funzioni
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/ver20150220_02--funzioni
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=ver02-funzioni.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/ver02-funzioni.tar
+CND_PACKAGE_NAME_Debug=ver2015022002--funzioni.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/ver2015022002--funzioni.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=ver02-funzioni
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/ver02-funzioni
+CND_ARTIFACT_NAME_Release=ver20150220_02--funzioni
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/ver20150220_02--funzioni
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=ver02-funzioni.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/ver02-funzioni.tar
+CND_PACKAGE_NAME_Release=ver2015022002--funzioni.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/ver2015022002--funzioni.tar
 #
 # include compiler specific variables
 #
